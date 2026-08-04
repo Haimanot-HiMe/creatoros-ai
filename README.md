@@ -53,7 +53,7 @@ CreatorOS AI aims to become an intelligent operating system for creators by comb
 
 ## Author
 
-Your Name
+Haimanot Gebre
 
 ## License
 
